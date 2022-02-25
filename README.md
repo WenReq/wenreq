@@ -1,5 +1,5 @@
 ### Hi there,I'm WSC 👋
-温少昌，就职于江苏天马网络科技有限公司，投身开源，函数库realize-utils作者。坚持学习，精进技术。你可以在这里找到我：[github](https://github.com/wenreq)、[博客](https://www.cnblogs.com/wenshaochang123/)
+温少昌，就职于江苏天马网络科技有限公司，投身开源，函数库realize-utils作者(不知名的库，厚着脸皮写的哦😂)。坚持学习，精进技术。你可以在这里找到我：[github](https://github.com/wenreq)、[博客](https://www.cnblogs.com/wenshaochang123/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wenreq.wenreq)
 
