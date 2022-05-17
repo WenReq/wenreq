@@ -1,6 +1,6 @@
-### Hi 我是温少昌
+### Hi there,I'm WSC 👋
 
-目前就职于江苏天马网络科技有限公司，开源函数库[realize-utils](https://github.com/wenreq/realize-utils)作者，[掘金Lv2](https://juejin.cn/user/3817127508447896)。坚持学习，精进技术，投身开源。你可以在这里找到我：[github](https://github.com/wenreq)、[掘金](https://juejin.cn/user/3817127508447896/posts)、[个人博客](http://www.wenreq.site/blog/)
+温少昌，目前就职于江苏天马网络科技有限公司，开源函数库 realize-utils 作者，掘金Lv2作者。坚持学习，精进技术，投身开源。你可以在这里找到我：[github](https://github.com/wenreq)、[掘金](https://juejin.cn/user/3817127508447896/posts)、[个人博客](http://www.wenreq.site/blog/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wenreq.wenreq)
 
@@ -8,10 +8,12 @@
 
 ### 擅长
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Vue](https://img.shields.io/badge/-Vue-339933?style=flat-square&logo=vue.js&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-<!--![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)-->
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/vue/vue.png"></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wenreq)](https://github.com/anuraghazra/github-readme-stats)
 
