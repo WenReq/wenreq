@@ -1,6 +1,6 @@
 ### Hi there,I'm WSC 👋
 
-温少昌，目前就职于江苏天马网络科技有限公司，开源函数库 realize-utils 作者，掘金Lv3作者。坚持学习，精进技术，投身开源。你可以在这里找到我：[github](https://github.com/wenreq)、[掘金](https://juejin.cn/user/3817127508447896/posts)、[个人博客](http://www.wenreq.site/blog/)
+温少昌，开源函数库 realize-utils 作者，掘金Lv3作者。坚持学习，精进技术，深耕领域，投身开源。你可以在这里找到我：[github](https://github.com/wenreq)、[掘金](https://juejin.cn/user/3817127508447896/posts)、[个人博客](http://www.wenreq.site/blog/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wenreq.wenreq)
 
