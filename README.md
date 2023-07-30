@@ -4,7 +4,7 @@
 
 <!--![](https://visitor-badge.glitch.me/badge?page_id=wenreq.wenreq)-->
 
-💬 Don't pretend to do sth.
+💬 Don't pretend to do sth
 
 ### ⚡ Technologies
 
